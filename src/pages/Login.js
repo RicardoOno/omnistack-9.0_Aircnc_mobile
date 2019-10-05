@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
         paddingTop: Platform.OS === 'android' ? 25 : 0  
     },
 
-    from: {
+    form: {
         alignSelf: 'stretch',
         paddingHorizontal: 30,
         marginTop: 30
